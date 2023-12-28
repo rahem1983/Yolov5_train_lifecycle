@@ -1,5 +1,6 @@
 yolov5
 dataset
+dataset.zip
 env
 data_to_label
 data_to_label.zip
@@ -8,3 +9,5 @@ sudo_dataset.zip
 data_temp
 dataset-back-and-front-different
 dataset-back-and-front-different.zip
+dataset-back-and-front-new-nid.zip
+ERA_TEMP.v2i.yolov5pytorch.zip
